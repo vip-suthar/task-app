@@ -1,0 +1,67 @@
+[
+    {
+        "event":"Green House",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vulputate pellentesque bibendum",
+        "tasks":[
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"today"
+            },
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"today"
+            },
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"later"
+            }
+        ]
+    },
+    {
+        "event":"Red House",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vulputate pellentesque bibendum",
+        "tasks":[
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"today"
+            }
+        ]
+    },
+    {
+        "event":"Blue House",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vulputate pellentesque bibendum",
+        "tasks":[
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"today"
+            }
+        ]
+    },
+    {
+        "event":"Black House",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vulputate pellentesque bibendum",
+        "tasks":[
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"later"
+            }
+        ]
+    },
+    {
+        "event":"Pink House",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vulputate pellentesque bibendum",
+        "tasks":[
+            {
+                "checked":true,
+                "task_description":"Lorem ipsum dolor sit amet",
+                "when":"later"
+            }
+        ]
+    }
+]
